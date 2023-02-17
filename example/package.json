@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node ../bin/webpack-vue-admin.js start",
+    "build": "node ../bin/webpack-vue-admin.js build"
+  },
+  "author": "lvpangpang",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "2.6.14"
+  }
+}
